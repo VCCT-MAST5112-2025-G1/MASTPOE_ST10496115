@@ -25,3 +25,4 @@ W3Schools (2025) HTML, CSS, and JavaScript Tutorials. Available at: (https://www
 Figma (2025) Designing mobile UI for recipe and food apps. Available at: (https://www.figma.com/resources )(Accessed: 13 November 2025).
 Firebase (2025) Build serverless mobile apps with Firebase. Available at: https://firebase.google.com) (Accessed: 13 November 2025).
 UX Planet (2025) Best practices for food and recipe app design. Available at: (https://uxplanet.org )(Accessed: 13 November 2025).
+https://github.com/VCCT-MAST5112-2025-G1/MASTPOE_ST10496115/tree/main/Chef-Application
